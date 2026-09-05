@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Sravya
 
-### 📊 Data Analytics Enthusiast | Power BI • Tableau • SQL • Python
+### 📊 BI Analyst Enthusiast | Power BI • Tableau • SQL • Python
 
 #### Turning data into actionable business insights through interactive dashboards and data storytelling.
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Analyst;BI+Developer;Power+BI+%7C+SQL+%7C+Tableau;Transforming+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=BI+Analyst;Business+Analyst;BI+Developer;Power+BI+%7C+SQL+%7C+Tableau;Transforming+Data+into+Business+Insights" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sravyapl&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20|%20Business%20Analyst%20|%20BI%20Developer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-BI%20Analyst%20|%20BI%20Developer%20|%20Power%20BI%20Developer-8A2BE2?style=for-the-badge"/>
 
 </p>
 
@@ -41,18 +41,18 @@
 
 ## 👩‍💻 About Me
 
-With **3 years of experience as a Product Support Engineer**, I have transitioned my career toward **Data Analytics and Business Intelligence**, combining strong analytical thinking with hands-on dashboard development.
+I'm a **Business Intelligence professional** with a background in Product Support Engineering, now focused on building end-to-end analytics solutions with **Power BI**, **Tableau**, **SQL**, **DAX**, **Power Query**, and **Snowflake**.
 
-Through continuous upskilling and practical projects, I have built end-to-end analytics solutions using **Power BI**, **Tableau**, **SQL**, **Python**, **DAX**, **Power Query**, **Snowflake**, and **Excel**. My portfolio includes projects across **Banking**, **Retail**, **Healthcare**, and **Sports Analytics**, where I transform raw data into interactive dashboards and actionable business insights.
+My portfolio spans **Banking**, **Finance (FP&A)**, **Retail**, and **Sports Analytics** — dashboards built from raw data through star/snowflake schema modeling, full DAX measure libraries, and interactive visual design, each documented end-to-end from ETL to insight.
 
-My background in product support strengthened my problem-solving mindset, attention to detail, and ability to work with complex datasets skills that now help me design meaningful reports and support data-driven decision-making.
+My time in product support sharpened how I work with data day to day — digging through logs, querying databases, and tracing issues through APIs — and that habit of tracing a problem to its root now shows up directly in how I model and debug BI solutions.
 
 ---
 ## 💼 Professional Background
 
-**Product Support Engineer** (3 Years)
+**Product Support Engineer, Ola Electric / Ola Cabs** (3 Years)
 
-Transitioned into Data Analytics through hands-on projects and continuous learning in Business Intelligence, Data Visualization, SQL, and Dashboard Development.
+Started in product support — analyzing app and vehicle software issues through logs, querying and updating the database, testing APIs via Postman, and raising Jira tickets ahead of release. Moved into Business Intelligence development a few months in, taking on dashboard building, data modeling, and ETL work using Power BI and SQL.
 
 ### 🚀 What I Do
 
@@ -69,9 +69,9 @@ Transitioned into Data Analytics through hands-on projects and continuous learni
 Throughout my portfolio, you'll find analytics projects across multiple industries:
 
 * 💳 Banking Analytics
-* 🏏 Sports Analytics
-* 🏥 Healthcare Analytics
+* 💰 Finance & FP&A Analytics
 * 🛒 Retail & E-commerce Analytics
+* 🏏 Sports Analytics
 
 ---
 
@@ -138,24 +138,20 @@ Throughout my portfolio, you'll find analytics projects across multiple industri
 ---
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[💳 Credit Card Banking Analytics](https://github.com/sravyapl/Credit-Card-Banking-Analytics)** | Banking KPI dashboard with customer spending and revenue insights. | Power BI • SQL • DAX |
-| **[🏏 IPL Analytics 2024](https://github.com/sravyapl/IPL-Analytics-2024)** | Player, team, and match performance analysis using Power BI. | Power BI • SQL |
-| **[🏥 Healthcare Analytics](https://github.com/sravyapl/Healthcare-Analytics)** | Hospital operations and patient analytics dashboard. | Power BI • SQL • DAX |
-| **[🛒 Flipkart Sales Analytics](https://github.com/sravyapl/Flipkart-Sales-Analytics)** | Retail sales, customer behavior, and category performance dashboard. | Power BI • SQL • Excel |
+| **[💳 Credit Card Analytics Pro](https://github.com/sravyapl/Credit-Card-Analytics-Pro)** | Banking KPI dashboard with row-level security, live Snowflake connection, and customer spending & revenue insights. | Power BI • Snowflake • DAX |
+| **[💰 FP&A Finance Analytics](https://github.com/sravyapl/FPA-Finance-Analytics)** | Finance dashboard covering budget variance, time intelligence, and executive-level financial reporting. | Power BI • DAX |
+| **[🛒 Walmart Retail Analytics Dashboard](https://github.com/sravyapl/Walmart-Retail-Analytics-Dashboard)** | Retail sales, customer behavior, and category performance dashboard with custom AppSource visuals. | Power BI • SQL • DAX |
+| **[🏏 IPL Cricket Performance Analysis Dashboard](https://github.com/sravyapl/IPL-Cricket-Performance-Analysis)** | Player, team, and match performance analysis using Power BI. | Power BI • SQL |
 ---
 ---
 
 # 🔨 Currently Working On
 
-* 📊 Building an **end-to-end Business Analysis Dashboard** in **Power BI** to track KPIs, variance analysis, and executive-level summaries from raw business data.
+* 📊 Expanding my portfolio with additional themed Power BI and Tableau projects across new domains.
 
-* 📐 Learning **Tableau** and **Microsoft Fabric** to expand my business intelligence and analytics capabilities.
+* 📐 Deepening my **Tableau** skills alongside Power BI to build cross-tool dashboard equivalency.
 
-* 📈 Enhancing my **Power BI** and **Tableau** skills by working with real-world datasets focused on sales performance, customer segmentation, and operational reporting.
-
-* ☁️ Exploring **AWS Cloud Fundamentals**, including **Amazon S3**, to understand cloud-based data storage and analytics workflows.
-
-* 🔗 Strengthening the bridge between **SQL**, **Python**, and business requirements by translating technical insights into actionable solutions for non-technical stakeholders.
+* 🔗 Strengthening the bridge between **SQL**, data modeling, and business requirements — translating technical insights into actionable solutions for non-technical stakeholders.
 
 ---
 
@@ -163,9 +159,9 @@ Throughout my portfolio, you'll find analytics projects across multiple industri
 
 I'm actively seeking opportunities in:
 
-* 📊 Data Analyst
-* 📈 Business Analyst
-* 📉 BI Developer
+* 📊 BI Analyst
+* 📈 BI Developer
+* 📉 Power BI / Tableau Developer
 
 I'm excited to contribute to projects involving:
 
@@ -182,7 +178,7 @@ I'm excited to contribute to projects involving:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/sravyapl/" target="_blank">
+<a href="https://www.linkedin.com/in/sravyapl/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -207,8 +203,3 @@ I'm excited to contribute to projects involving:
 *"Turning data into meaningful insights, one dashboard at a time."*
 
 </div>
-
-
-
-
-
