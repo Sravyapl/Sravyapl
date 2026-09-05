@@ -139,7 +139,7 @@ Throughout my portfolio, you'll find analytics projects across multiple industri
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[💳 Credit Card Analytics Pro](https://github.com/sravyapl/Credit-Card-Analytics-Pro)** | Banking KPI dashboard with row-level security, live Snowflake connection, and customer spending & revenue insights. | Power BI • Snowflake • DAX |
-| **[💰 FP&A Finance Analytics](https://github.com/sravyapl/FPA-Finance-Analytics)** | Finance dashboard covering budget variance, time intelligence, and executive-level financial reporting. | Power BI • DAX |
+| **[💰 FP&A Finance Analytics](https://github.com/sravyapl/FP-A-Finance-Analytics)** | Finance dashboard covering budget variance, time intelligence, and executive-level financial reporting. | Power BI • DAX |
 | **[🛒 Walmart Retail Analytics Dashboard](https://github.com/sravyapl/Walmart-Retail-Analytics-Dashboard)** | Retail sales, customer behavior, and category performance dashboard with custom AppSource visuals. | Power BI • SQL • DAX |
 | **[🏏 IPL Cricket Performance Analysis Dashboard](https://github.com/sravyapl/IPL-Cricket-Performance-Analysis)** | Player, team, and match performance analysis using Power BI. | Power BI • SQL |
 ---
