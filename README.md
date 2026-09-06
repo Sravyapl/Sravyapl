@@ -43,7 +43,7 @@
 
 I'm a **Business Intelligence professional** with a background in Product Support Engineering, now focused on building end-to-end analytics solutions with **Power BI**, **Tableau**, **SQL**, **DAX**, **Power Query**, and **Snowflake**.
 
-My portfolio spans **Banking**, **Finance (FP&A)**, **Retail**, and **Sports Analytics** — dashboards built from raw data through star/snowflake schema modeling, full DAX measure libraries, and interactive visual design, each documented end-to-end from ETL to insight.
+My portfolio spans **Banking**, **Finance**, **Retail**, and **Sports Analytics** — dashboards built from raw data through star/snowflake schema modeling, full DAX measure libraries, and interactive visual design, each documented end-to-end from ETL to insight.
 
 My time in product support sharpened how I work with data day to day — digging through logs, querying databases, and tracing issues through APIs — and that habit of tracing a problem to its root now shows up directly in how I model and debug BI solutions.
 
